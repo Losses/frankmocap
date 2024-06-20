@@ -21,3 +21,4 @@ smplx
 scikit-learn==0.22
 opendr
 chumpy
+pytorch3d==0.3.0
